@@ -1,6 +1,6 @@
-/**
- * Author: Mark Wagner AJ Appleget
- * Date: 2016/08/21
+//**
+ * Author: AJ Appleget
+ * Date: 2016/11/02
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Mark Wagner Mechanical Engineering and AJ Applget\n");
+  printf("AJ Appleget Computer Science\n");
 
   return 0;
 }
